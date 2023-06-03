@@ -1,1 +1,1 @@
-# Signal_denoising_academic_project
+# Image_denoising_academic_project
